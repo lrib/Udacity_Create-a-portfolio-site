@@ -39,7 +39,7 @@ O projeto é criado em função das seguintes características:
   
 ## Pré-requisitos do projeto:
 
-  ê necessario execulyar o ficheiro index.html em webbrowser com suporte a HTML5 e CSS.
+  É necessario executar o ficheiro index.html em webbrowser com suporte a HTML5 e CSS.
 
 ## Fontes consultadas:
 https://www.w3schools.com/
