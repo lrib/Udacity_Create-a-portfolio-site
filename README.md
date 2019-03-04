@@ -11,7 +11,7 @@ O projeto é criado em função das seguintes características:
   - Layout baseado em grade.
 
 - Responsividade:
-  - Compatibilidade entre disposivitos (Desktop, Mobile: Google Nexus 5 e Tablet: Apple iPad);
+  - Compatibilidade entre dispositivo (Desktop, Mobile: Google Nexus 5 e Tablet: Apple iPad);
   - Forneça todo o conteúdo;
   - Tag meta de janela de exibição;
   - Imagens responsivas
@@ -29,17 +29,17 @@ O projeto é criado em função das seguintes características:
 
 ## Preparação
 
-  Dentro deste projeto estão distribuidas os arquivos para o projeto Criar um site de portfólio.
-  O arquivo index.html tem o codigo estatico da pagina principal. Esta irá chamar o ficheiro css main.css na pasta \css que irá apresentar todos os estilos utilizados na pagina web.
+  Dentro deste projeto estão distribuídas os arquivos para o projeto Criar um site de portfólio.
+  O arquivo index.html tem o código estático da pagina principal. Esta irá chamar o ficheiro css main.css na pasta \css que irá apresentar todos os estilos utilizados na pagina web.
   Dentro da pasta \img estão as imagens utilizadas na pagina index.html.
 
 ## Execução
   
-  Realizar o download de todos os arquivos em uma pasta especifica e executar o arquivo "index.html" em seu navegador padrão no computador, tablet ou em seu telefone celular.
+  Realizar o download e descompactação de todos os arquivos em uma pasta especifica e executar o arquivo "index.html" em seu navegador padrão no computador, tablet ou em seu telefone celular.
   
 ## Pré-requisitos do projeto:
 
-  É necessario executar o ficheiro index.html em webbrowser com suporte a HTML5 e CSS.
+  É necessário executar o ficheiro index.html em web-browser com suporte a HTML5 e CSS.
 
 ## Fontes consultadas:
 https://www.w3schools.com/
