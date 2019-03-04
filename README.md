@@ -1,4 +1,4 @@
-# Udacity_Create-a-portfolio-site
+# Udacity - Module 2 - Create a portfolio site
 
 O projeto é uma tarefa chamada 'Criar um site de portfólio' do módulo 2 do curso de Full Stack Developer da Udacity, turma 16/JAN/2019.
 
